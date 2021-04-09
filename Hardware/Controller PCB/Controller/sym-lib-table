@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name 216_Parts)(type Legacy)(uri "D:/Cloud Folder/College/ASU/EGR216/Honors Contract/Power Monitoring Board/Custom Parts/216_HC_Custom_Parts.lib")(options "")(descr ""))
-  (lib (name JSTPH)(type Legacy)(uri "D:/Cloud Folder/College/ASU/EGR102/Honors Contract Project/Component Designs/KiCAD/2021-02-08_02-19-09/2021-02-08_02-19-09.lib")(options "")(descr ""))
-)

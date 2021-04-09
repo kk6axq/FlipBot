@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Teensy Footprints")(type KiCad)(uri "D:/Cloud Folder/College/ASU/EGR102/Honors Contract Project/Component Designs/KiCAD/teensy.pretty-master")(options "")(descr ""))
+  (lib (name TXB0108)(type KiCad)(uri "D:/Cloud Folder/College/ASU/EGR102/Honors Contract Project/Component Designs/KiCAD/TXB0108/2021-01-22_00-01-44/footprints.pretty")(options "")(descr ""))
+)

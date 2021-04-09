@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "Common Custom Footprints")(type KiCad)(uri "D:/Cloud Folder/College/ASU/EGR102/Honors Contract Project/Component Designs/KiCAD/Common Custom Footprints.pretty")(options "")(descr ""))
-  (lib (name "JST PH")(type KiCad)(uri "D:/Cloud Folder/College/ASU/EGR102/Honors Contract Project/Component Designs/KiCAD/2021-02-08_02-19-09/footprints.pretty")(options "")(descr ""))
-)
