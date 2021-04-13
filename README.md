@@ -13,4 +13,4 @@ FlipBot is a small two wheeled robot development platform. It was developed over
  ## Project Status
  Due to incomplete design verification and limited time, the project was not able to achieve full functionality before the end of the semester. The level converter responsible for interfacing between the motor controllers and the microcontroller was not properly matched to the application and would not properly convert, leading the motor controllers to operate sporadically.
 
- This issue, in addition to a few minor routing decisions, are due to be fixed during a revision of the main board scheduled for Summer 2021, with the hope that the project will be functional by Fall 2021.  
+ This issue, in addition to a few minor routing decisions, is due to be fixed during a revision of the main board scheduled for Summer 2021, with the hope that the project will be functional by Fall 2021.  
